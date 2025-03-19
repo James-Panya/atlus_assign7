@@ -1,0 +1,54 @@
+h1 {
+    color: darkcyan;
+}
+
+h2 {
+    color: #27b2b2;
+}
+
+p {
+    color: black;
+}
+
+ul {
+    border: 2px solid #48929b;
+}
+
+ol {
+    border: 2px solid #48929b;
+}
+
+ol,
+ul {
+    padding: 1px 25px;
+    border-radius: 4px;
+}
+
+h1,
+strong {
+    color: #27b2b2;
+}
+
+em {
+    color: #4c4c4c;
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0;
+    color: darkcyan;
+}
+
+dl {
+    color: black;
+    margin: 0.5em 0;
+}
+
+dt {
+    font-weight: bold;
+    color: #27b2b2;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+}
